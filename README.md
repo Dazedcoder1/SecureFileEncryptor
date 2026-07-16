@@ -47,7 +47,8 @@ A professional desktop application for encrypting and decrypting files and folde
 
 **Encryption history** — search, filter, sort, CSV export, SHA-256 per file:
 
-<img width="1918" height="967" alt="image" src="https://github.com/user-attachments/assets/c6bab4e8-6268-49cd-b345-776f71df8357" />
+<img width="1732" height="1003" alt="image" src="https://github.com/user-attachments/assets/dc631a78-a7d2-4f82-b606-81c79fb4475e" />
+
 
 
 ## 🚀 Installation
