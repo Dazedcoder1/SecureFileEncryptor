@@ -1,0 +1,7 @@
+# Secure File Encryptor Pro — runtime dependencies
+PyQt5>=5.15.10
+cryptography>=42.0.0
+
+# Development / testing
+pytest>=8.0.0
+pytest-qt>=4.4.0
