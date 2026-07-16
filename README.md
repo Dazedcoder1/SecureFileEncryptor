@@ -35,11 +35,14 @@ A professional desktop application for encrypting and decrypting files and folde
 <img width="1918" height="967" alt="image" src="https://github.com/user-attachments/assets/9dd52b19-47da-41c2-9b04-de2c3a86e717" />
 
 
-| Encrypt dialog — live strength meter | Decrypt dialog — auto integrity check |
-|---|---|
-| <img width="1918" height="967" alt="image" src="https://github.com/user-attachments/assets/3d6e6e5c-4ab4-4ee6-b3cb-052ebc458084" />
-| <img width="850" height="552" alt="image" src="https://github.com/user-attachments/assets/d819a6d9-6a99-43da-b9f2-f4757f5a2bfe" />
- |
+ **Encrypt dialog — live strength meter** 
+ <img width="1918" height="967" alt="image" src="https://github.com/user-attachments/assets/3d6e6e5c-4ab4-4ee6-b3cb-052ebc458084" />
+
+
+ **Decrypt dialog — auto integrity check** 
+
+ <img width="850" height="552" alt="image" src="https://github.com/user-attachments/assets/d819a6d9-6a99-43da-b9f2-f4757f5a2bfe" />
+
 
 **Encryption history** — search, filter, sort, CSV export, SHA-256 per file:
 
