@@ -36,7 +36,8 @@ A professional desktop application for encrypting and decrypting files and folde
 
 
  **Encrypt dialog — live strength meter** 
- <img width="1918" height="967" alt="image" src="https://github.com/user-attachments/assets/3d6e6e5c-4ab4-4ee6-b3cb-052ebc458084" />
+ <img width="849" height="685" alt="image" src="https://github.com/user-attachments/assets/dd45083d-cb05-47d7-bb8b-a00176be6454" />
+
 
 
  **Decrypt dialog — auto integrity check** 
