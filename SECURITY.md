@@ -1,10 +1,5 @@
 # Security Policy
 
-## Reporting a vulnerability
-
-Please email **tahzibshams@gmail.com** with details. Do **not** open a public
-GitHub issue for security problems. You can expect an acknowledgement within
-72 hours. Please include reproduction steps and an assessment of impact.
 
 ## Threat model (what this app defends against)
 
