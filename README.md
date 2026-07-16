@@ -1,6 +1,4 @@
 # SecureFileEncryptor
-Professional desktop file encryption app — AES-256-GCM authenticated encryption with PyQt5 GUI, streaming engine for large files, integrity verification, drag &amp; drop, dark mode, and SQLite history. Clean Architecture.
-
 
 A professional desktop application for encrypting and decrypting files and folders with industry-standard authenticated cryptography — built with Python, PyQt5, and the `cryptography` library using Clean Architecture principles.
 
@@ -22,13 +20,7 @@ A professional desktop application for encrypting and decrypting files and folde
 - **Settings** — default save location, overwrite policy, integrity auto-verify, history size, language-ready
 - **Secure by design** — passwords never stored or logged, wipeable password buffers, atomic output files, crafted-file hardening
 
-## 📸 Screenshots
 
-> *Screenshots coming soon — run `python app.py` to see the dashboard, dark mode, and history window.*
-
-| Dashboard (dark) | Encrypt dialog | History |
-|---|---|---|
-| *placeholder* | *placeholder* | *placeholder* |
 
 ## 🚀 Installation
 
